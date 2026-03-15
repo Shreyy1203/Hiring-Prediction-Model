@@ -6,7 +6,7 @@ This repository contains a machine learning project developed during my 2-month 
 The model processes various features from candidate profiles (like experience, education, and skill sets) to predict the likelihood of a successful hire. This project focuses on the end-to-end machine learning pipeline, from raw data to model evaluation.
 
 ## Tech Stack
-- **Language:** Python 🐍
+- **Language:** Python 
 - **Libraries:** - `Pandas` & `NumPy`: Data manipulation and numerical processing.
   - `Scikit-Learn`: Model building, feature engineering, and evaluation.
   - `Matplotlib` & `Seaborn`: Exploratory Data Analysis (EDA) and visualization.
@@ -22,9 +22,8 @@ The model processes various features from candidate profiles (like experience, e
 The final model provides a data-driven approach to HR analytics, helping to streamline the initial screening process.
 
 ## Repository Structure
-- `Hiring_Decision_Model.ipynb`: The main Google Colab notebook.
-- `data/`: (If you are allowed to share it) The dataset used for training.
-- 
+- `Hiring.ipynb`: The Google Colab notebook.
+- `Resume_List.csv`: The dataset used for training.
 
 ## Author
 **Shreyash Shinde** Robotics & Automation Engineering Student at AISSMS COE | AIML & DS Enthusiast
