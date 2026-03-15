@@ -1,31 +1,30 @@
-# Hiring Decision Prediction Model 🚀
+# Hiring Decision Prediction Model 
 
 This repository contains a machine learning project developed during my 2-month AIML internship at **3Skill Training**. The goal of this project was to build a predictive model that assists in evaluating hiring decisions based on candidate resume data.
 
-## 📌 Project Overview
+## Project Overview
 The model processes various features from candidate profiles (like experience, education, and skill sets) to predict the likelihood of a successful hire. This project focuses on the end-to-end machine learning pipeline, from raw data to model evaluation.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python 🐍
 - **Libraries:** - `Pandas` & `NumPy`: Data manipulation and numerical processing.
   - `Scikit-Learn`: Model building, feature engineering, and evaluation.
   - `Matplotlib` & `Seaborn`: Exploratory Data Analysis (EDA) and visualization.
 - **Environment:** Google Colab
 
-## 🚀 Key Features & Challenges
+## Key Features & Challenges
 - **Data Preprocessing:** Handled missing values, encoded categorical variables, and performed feature scaling.
 - **EDA:** Visualized correlations between candidate attributes and hiring outcomes to identify key predictors.
 - **Model Tuning:** Implemented and compared different classification algorithms to optimize for precision and recall.
 - **Overcoming Roadblocks:** Addressed challenges in feature engineering and handled class imbalances within the dataset to ensure a fair and accurate model.
 
-## 📊 Results
+## Results
 The final model provides a data-driven approach to HR analytics, helping to streamline the initial screening process.
-*(Optional: Insert a screenshot of your most impressive graph or your Confusion Matrix here!)*
 
-## 📂 Repository Structure
+## Repository Structure
 - `Hiring_Decision_Model.ipynb`: The main Google Colab notebook.
 - `data/`: (If you are allowed to share it) The dataset used for training.
-- `requirements.txt`: List of dependencies.
+- 
 
-## ✍️ Author
-**Shreyash Shinde** Mechanical Engineering Student at AISSMS COE | AIML Enthusiast
+## Author
+**Shreyash Shinde** Robotics & Automation Engineering Student at AISSMS COE | AIML & DS Enthusiast
